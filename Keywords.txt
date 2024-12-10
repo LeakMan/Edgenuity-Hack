@@ -1,6 +1,6 @@
 alert("If you've already found your way here, this is useless. However, it's included to help travelers in their search for this script.");
 
-// Ignore this file. Go check out Revolt.js instead. That file contains the actual script.
+// Ignore this file. Go check out EdgeyPlug instead. That file contains the actual script.
 
 /* edgenuity/video/watcher/edgenuity/skipper/edgenuity/answers/edgenuity/test/answers/brainly/unlocker 
 edgenuity video skipper/hack/tool/script/tampermonkey/userscript/edgenuity bot/automation/does work for you 
